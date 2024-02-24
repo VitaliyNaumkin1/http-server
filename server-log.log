@@ -1,0 +1,5 @@
+INFO  2024-02-24 18:33:58 [main] ru.otus.java.basic.http.server.HttpServer (HttpServer.java:26) - Сервер запущен на порту: 8189
+INFO  2024-02-24 18:34:04 [pool-2-thread-1] ru.otus.java.basic.http.server.ConnectionHandler (ConnectionHandler.java:25) - поступил запрос клиента: port: 51546
+INFO  2024-02-24 18:34:12 [pool-2-thread-2] ru.otus.java.basic.http.server.ConnectionHandler (ConnectionHandler.java:25) - поступил запрос клиента: port: 51547
+INFO  2024-02-24 18:34:14 [pool-2-thread-3] ru.otus.java.basic.http.server.ConnectionHandler (ConnectionHandler.java:25) - поступил запрос клиента: port: 51549
+INFO  2024-02-24 18:34:14 [pool-2-thread-4] ru.otus.java.basic.http.server.ConnectionHandler (ConnectionHandler.java:25) - поступил запрос клиента: port: 51550
